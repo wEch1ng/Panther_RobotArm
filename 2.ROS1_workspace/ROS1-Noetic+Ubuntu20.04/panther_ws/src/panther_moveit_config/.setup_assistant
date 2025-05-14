@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: panther_description
+    relative_path: urdf/panther_description.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/panther_description.srdf
+  CONFIG:
+    author_name: xwc
+    author_email: 3575868884@qq.com
+    generated_timestamp: 1745139599

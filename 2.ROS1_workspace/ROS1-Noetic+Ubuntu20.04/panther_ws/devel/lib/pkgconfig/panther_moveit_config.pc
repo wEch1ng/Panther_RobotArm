@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/panther_ws/devel
+
+Name: panther_moveit_config
+Description: Description of panther_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/panther_ws/install
+
+Name: panther_description_6
+Description: Description of panther_description_6
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

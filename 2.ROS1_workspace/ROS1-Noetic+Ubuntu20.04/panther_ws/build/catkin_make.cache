@@ -1,0 +1,2 @@
+dm_drive:panther_description:panther_moveit_config
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/panther_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/panther_ws/install -G Unix Makefiles
