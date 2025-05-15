@@ -27,6 +27,6 @@ diffusion policy模仿学习
 
 ......
 
-后续一些内容的更新在**KelvinLauMiau(亲爱的小一咯)**的Ragtime_Panthera仓库中：
+后续一些内容的更新在 **KelvinLauMiau(亲爱的小一咯)** 的Ragtime_Panthera仓库中：
 https://github.com/KelvinLauMiau/Ragtime_Panthera
 
