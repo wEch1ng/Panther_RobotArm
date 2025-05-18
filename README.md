@@ -6,7 +6,7 @@
 
 基本功能演示视频：https://www.bilibili.com/video/BV1w6dBYxEPu?vd_source=9fd17ff99dc79491d23776f35bfbd4e1
 
-这个Repository仅用于开源最原始的panther机械臂，仅有ros-noetic中一些基本功能：重力补偿模式，拖动示教，moveit轨迹规划
+这个仓库仅用于开源最原始的panther机械臂，仅有ros-noetic中一些基本功能：重力补偿模式，拖动示教，moveit轨迹规划
 （功能包中的catesian_plan.cpp是调用moveit在笛卡尔空间下画圆，可能有点问题需要自己尝试）
 
 ## 相关说明
