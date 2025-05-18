@@ -13,7 +13,7 @@
 Panther名字由来：原始设计整机为黑色所以命名为黑豹（Panther），而Panthera是豹类，代表整个Panther机械臂开源项目，希望大家能加入Panthera项目中来。
 
 ## Panthera
-后续我们会将Panther从ros中迁移至Windows下Python的控制
+后续我们会将Panther从ros中迁移至纯Python环境下来控制
 
 Mujoco仿真及数字孪生
 
