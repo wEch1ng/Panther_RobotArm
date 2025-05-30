@@ -17,7 +17,7 @@ Panther名字由来：原始设计整机为黑色所以命名为黑豹（Panther
 
 Mujoco仿真及数字孪生
 
-Pinocchino库的使用
+Pinocchio库的使用
 
 diffusion policy模仿学习
 
