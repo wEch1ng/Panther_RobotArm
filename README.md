@@ -10,7 +10,7 @@
 （功能包中的catesian_plan.cpp是调用moveit在笛卡尔空间下画圆，可能有点问题需要自己尝试）
 
 ## 相关说明
-Panther名字由来：原始设计整机为黑色所以命名为黑豹（Panther），而Panthera是豹类，代表整个Panther机械臂开源项目，希望大家能加入Panthera项目中来。
+Panther名字由来：原始设计整机为黑色所以命名为黑豹（Panther），而Panthera是豹类，代表整个Panther机械臂开源项目，希望大家能加入Panthera项目中，创造相对更低成本、性能更好的关节电机方案机械臂，同时实现更多好玩的功能。
 
 ## Panthera
 后续我们会将Panther从ros中迁移至纯Python环境下来控制
