@@ -29,4 +29,5 @@ diffusion policy模仿学习
 
 后续一些内容的更新在 **Ragtime-LAB** 的Ragtime_Panthera仓库中：
 https://github.com/Ragtime-LAB/Ragtime_Panthera
-**Ragtime-LAB**目前成员：**亲爱的小一咯** **小小晨**
+
+**Ragtime-LAB**目前成员：**亲爱的小一咯**、**小小晨**
